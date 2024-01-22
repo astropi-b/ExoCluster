@@ -1,0 +1,1 @@
+In this first phase, we select two very crucial parameters to find the potential habitats, which are the distance from us and the distance of the exoplanet from its host star, so we do unsupervised clustering using Kmeans, Hierarchial, and GMM, conduct ensemble learning, find out the best cluster that suits habitability, and proceed with this cluster for the next phase.
